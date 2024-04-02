@@ -9,8 +9,8 @@ This Java URL Shortener is a simple tool that allows you to generate short and u
 
 ## Installation
 1. Clone the repository: `git clone`
-2. Compile the Java files: `javac *.java`
-3. Run the application: `java Main`
+2. Compile the Java files: `javac urlshortener.java`
+3. Run the application.
 
 ## Usage
 1. Enter a long URL that you want to shorten.
